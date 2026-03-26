@@ -1,111 +1,110 @@
 # 👋 Hi, I'm Praveen K N
 
-🚀 **Aspiring Data Analyst | AI & Machine Learning Enthusiast**
-📊 Passionate about transforming raw data into actionable insights
+🚀 **Data Analyst | Machine Learning Enthusiast | Problem Solver**
+
+I build end-to-end data solutions that transform raw data into meaningful business insights.
 
 ---
 
-## 🚀 About Me
+## 💡 What I Do
 
-* 🎓 B.Tech in Electronics & Computer Engineering (AI & ML)
-* 📊 Strong interest in **Data Analytics, Machine Learning & Business Intelligence**
-* 💡 Skilled in building **end-to-end data projects** from raw data to insights
-* 🎯 Focused on solving real-world problems using data
+* 📊 Analyze data to uncover trends and insights
+* 🤖 Build machine learning models for prediction
+* 📈 Create dashboards to support decision-making
+* 🧠 Solve real-world problems using data
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 * **Languages:** Python, SQL
 * **Data Analysis:** Pandas, NumPy
-* **Visualization:** Matplotlib, Seaborn, Power BI
+* **Visualization:** Power BI, Matplotlib, Seaborn
 * **Machine Learning:** Scikit-learn
-* **Tools:** Excel, GitHub, Jupyter Notebook
+* **Tools:** Excel, Git, Jupyter Notebook
 
 ---
 
-## 📊 Featured Projects
+## 🚀 Featured Work
 
-### 🔹 Sales Analytics & Business Insights (⭐ Flagship Project)
+### 📊 Sales Analytics & Business Insights (Flagship Project)
 
-* Analyzed **13,000+ sales records**
-* Performed **data cleaning, EDA, and insight extraction**
-* Built **interactive Power BI dashboard**
-* Identified key business drivers like region performance & discount impact
+✔ Analyzed **13,000+ sales records**
+✔ Identified key drivers of **profit & revenue**
+✔ Built **interactive Power BI dashboard**
+✔ Discovered **negative impact of discounts on profit**
 
-👉 [View Project](https://github.com/Praveensudha/sales-analytics-project)
+👉 **Result:** Demonstrated how data can improve business decisions
 
----
-
-### 🔹 Job Salary Prediction (Machine Learning)
-
-* Built **Linear Regression model** to predict salaries
-* Analyzed impact of experience and job-related features
-* Demonstrated **ML application in HR analytics**
-
-👉 [View Project](https://github.com/Praveensudha/job-salary-prediction)
+🔗 https://github.com/Praveensudha/sales-analytics-project
 
 ---
 
-### 🔹 AI Classroom Assistant
+### 🤖 Job Salary Prediction (Machine Learning)
 
-* Developed an AI-powered system with **chatbot + voice + file interaction**
-* Integrated **AI models and real-time features**
-* Built using **React + Flask + AI APIs**
+✔ Built regression model to predict salaries
+✔ Identified **experience as key salary driver**
+✔ Applied ML in **HR analytics context**
 
-👉 [View Project](https://github.com/Praveensudha/ai-classroom-assistant)
+👉 **Result:** Showed predictive modeling for real-world use
 
----
-
-### 🔹 Real-Time ANPR (Automatic Number Plate Recognition)
-
-* Built real-time vehicle number plate detection system
-* Used **Computer Vision & YOLO**
-* Applied for smart surveillance systems
-
-👉 [View Project](https://github.com/Praveensudha/RealTime_ANPR_YOLO)
+🔗 https://github.com/Praveensudha/job-salary-prediction
 
 ---
 
-### 🔹 AI Virtual Mouse
+### 🧠 AI Classroom Assistant
 
-* Controlled system using hand gestures
-* Used **Computer Vision & MediaPipe**
-* Demonstrates human-computer interaction
+✔ Built AI-powered assistant with **chat + voice + file analysis**
+✔ Integrated real-time AI responses
+✔ Developed full-stack system (React + Flask)
 
-👉 [View Project](https://github.com/Praveensudha/AI-Virtual-Mouse)
+👉 **Result:** Demonstrated real-world AI application
 
----
-
-### 🔹 Image Upscaling using SRGAN
-
-* Implemented deep learning model for **image enhancement**
-* Improved image resolution using GANs
-
-👉 [View Project](https://github.com/Praveensudha/SRGAN-image-upscaling)
+🔗 https://github.com/Praveensudha/ai-classroom-assistant
 
 ---
 
-## 💼 What I Bring
+### 🚗 Real-Time ANPR System
 
-✔ Strong foundation in **data analysis & machine learning**
-✔ Ability to build **end-to-end projects**
-✔ Understanding of **business insights & real-world applications**
-✔ Passion for continuous learning and improvement
+✔ Built number plate detection using **YOLO & OpenCV**
+✔ Applied computer vision for smart systems
 
 ---
 
-## 📈 Career Objective
+### 🖐️ AI Virtual Mouse
 
-To start my career as a **Data Analyst / Data Scientist**, where I can apply my analytical skills, build impactful solutions, and contribute to data-driven decision-making.
+✔ Controlled system using hand gestures
+✔ Implemented using **MediaPipe + Computer Vision**
+
+---
+
+### 🖼️ Image Upscaling (SRGAN)
+
+✔ Improved image resolution using deep learning
+✔ Applied GAN-based enhancement techniques
+
+---
+
+## 💼 Why Hire Me?
+
+✔ Strong foundation in **data analytics + machine learning**
+✔ Ability to build **end-to-end real-world projects**
+✔ Focus on **business impact, not just code**
+✔ Quick learner with a problem-solving mindset
+
+---
+
+## 🎯 Career Goal
+
+To work as a **Data Analyst / Data Scientist** where I can contribute to building impactful, data-driven solutions.
 
 ---
 
 ## 📫 Connect With Me
 
-* 🔗 LinkedIn: www.linkedin.com/in/praveen-kn-a8b960259
+* 🔗 LinkedIn: (Add your link)
 * 💻 GitHub: https://github.com/Praveensudha
 
 ---
 
-⭐ *Always building, learning, and improving.*
+⭐ *Actively seeking opportunities to apply my skills and grow in the data field.*
