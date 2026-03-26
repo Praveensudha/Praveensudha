@@ -102,7 +102,7 @@ To work as a **Data Analyst / Data Scientist** where I can contribute to buildin
 
 ## 📫 Connect With Me
 
-* 🔗 LinkedIn: (Add your link)
+* 🔗 LinkedIn: www.linkedin.com/in/praveen-kn-a8b960259
 * 💻 GitHub: https://github.com/Praveensudha
 
 ---
