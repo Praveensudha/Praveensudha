@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Praveen K N
 
-🚀 **Data Analyst | Machine Learning Enthusiast | Problem Solver**
+🚀 *Data Analyst | Machine Learning Enthusiast | Problem Solver*
 
 I build end-to-end data solutions that transform raw data into meaningful business insights.
 
@@ -89,7 +89,8 @@ I build end-to-end data solutions that transform raw data into meaningful busine
 - 🤖 Why 95% Accuracy Can Still Be a Bad Model  
   👉 https://medium.com/@praveenkncs/why-95-accuracy-can-still-be-a-bad-model-d0a144101142  
 
-💡 This article explains why accuracy alone can be misleading in machine learning and highlights the importance of proper model evaluation techniques.
+✔ Demonstrates understanding of real-world ML evaluation  
+✔ Highlights limitations of relying only on accuracy  
 ---
 ## 💼 Why Hire Me?
 
