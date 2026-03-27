@@ -87,10 +87,7 @@ I build end-to-end data solutions that transform raw data into meaningful busine
 ## ✍️ Articles & Blogs
 
 - 🤖 Why 95% Accuracy Can Still Be a Bad Model  
-  👉 https://medium.com/@praveenkncs/why-95-accuracy-can-still-be-a-bad-model-d0a144101142  
-
-✔ Demonstrates understanding of real-world ML evaluation  
-✔ Highlights limitations of relying only on accuracy  
+  👉 https://medium.com/@praveenkncs/why-95-accuracy-can-still-be-a-bad-model-d0a144101142
 ---
 ## 💼 Why Hire Me?
 
