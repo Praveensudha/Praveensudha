@@ -84,7 +84,13 @@ I build end-to-end data solutions that transform raw data into meaningful busine
 ✔ Applied GAN-based enhancement techniques
 
 ---
+## ✍️ Articles & Blogs
 
+- 🤖 Why 95% Accuracy Can Still Be a Bad Model  
+  👉 https://medium.com/@praveenkncs/why-95-accuracy-can-still-be-a-bad-model-d0a144101142  
+
+💡 This article explains why accuracy alone can be misleading in machine learning and highlights the importance of proper model evaluation techniques.
+---
 ## 💼 Why Hire Me?
 
 ✔ Strong foundation in **data analytics + machine learning**
